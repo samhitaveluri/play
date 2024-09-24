@@ -1,0 +1,1 @@
+The podcast-streaming-app allows users to add, delete, and stream podcasts. It partitions the database logically for scalability, stores media data in cloud storage, and keeps podcast metadata in a NoSQL database. The project uses React-Redux for state management, Node.js with Express for the backend, and MongoDB for efficient data storage
